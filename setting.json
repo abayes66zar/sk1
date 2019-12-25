@@ -1,0 +1,104 @@
+{
+    "Img": {},
+    "addImage": {
+        "name": "",
+        "status": false
+    },
+    "addSticker": {
+        "name": "",
+        "status": false
+    },
+    "addStickertemplate": {
+        "namee": "",
+        "statuss": false
+    },
+    "addTemplate": {
+        "statustext": true,
+        "texts": "//line.me/ti/p/~nandasri33"
+    },
+    "addText": {
+        "statustext": true,
+        "texts": "addtext hery"
+    },
+    "addTmpStic": {
+        "name": "",
+        "status": false
+    },
+    "allchangeDual": false,
+    "allchangedual": false,
+    "autoAdd": true,
+    "autoAddMessage": "нαყყ @! тєяıмαkαsıн kαяηα \nтєłαн мєηαмвαнkαη sαyα \nмєηjα∂ı тємαη αη∂α",
+    "autoAnswerMessage": "Halooo :)) Pc aditya yaaa ?\n\nAdit Lagi Nugas Klo Mau di bales\n\nCall aja biar Notifnya masuk 􀰂􀅖excited cloud􏿿",
+    "autoJoin": true,
+    "autoJoinMessage": "нαℓℓσω @! \nTerimakasih Karena Telah mengundang Saya.",
+    "autoJoinTicket": true,
+    "autoJoinTicketBot": true,
+    "autoRead": false,
+    "autoReply": false,
+    "autoRespon": true,
+    "autoResponMessage": "ᴀᴅᴀ ℘ᴇʀʟᴜ ᴀ℘ᴀ ʟᴜ ɴɢᴇ ᴛᴀɢ ɢᴜᴀ \nɱᴀsɪʜ ᴊᴏᴍʙʟᴏ ɢᴀ. \nɴᴛᴀʀ ᴋᴀʟᴀᴜ ɱᴀsɪʜ ᴊᴏɱʙʟᴏ \n℘ɱ ᴀᴊᴀʜ ɴᴛᴀʀ ᴋɪᴛᴀ ᴋᴏᴊᴏɱ ʙᴇʀᴅᴜᴀ.",
+    "autoResponbob": true,
+    "mention": "",
+    "backup": false,
+    "blackList": {},
+    "changeCover": false,
+    "changeDual": false,
+    "changeGroupPicture": [],
+    "changePictureProfile": false,
+    "changePictureProfileKing": false,
+    "changePictureProfileRezl": false,
+    "changePictureProfilee": false,
+    "changeVpProfile": false,
+    "checkContact": false,
+    "checkPost": true,
+    "checkSticker": false,
+    "cloneContact": false,
+    "commentPost": "Autolike By Me >/<\nhttp://line.me/ti/p/~nandasri33",
+    "contactBan": false,
+    "decode": [],
+    "defendMode": false,
+    "delFriend": false,
+    "detectUnsend": true,
+    "drawink": [],
+    "groupInvite": false,
+    "helpT": "|",
+    "keyCommand": "dent ",
+    "kingchangeDual": false,
+    "memberCancel": {
+        "members": 1,
+        "on": true
+    },
+    "mimic": {
+        "status": true,
+        "target": {}
+    },
+    "myProfile": {
+        "coverId": "c0000000000000000000000000000001",
+        "displayName": "🌍A̶L̶I̶M̶R̶A̶N̶",
+        "pictureStatus": "0h4DsSIHL-a2tOKkEHQLEUPHJvZQY5BG0jNkgmCmspZ1pnTy01c08sBT4iYQhjGik5eh5xXWMrNg4x",
+        "statusMessage": "Jalani hidup dengan senyuman"
+    },
+    "mycc": "5nXBC18M7fFI/6J7gc9Q8tp4cQqWhcdyatZCEG09mVcTWX6BT2OpbsqGcEet0K2HOxOkIHU9S0Sq0pipeKQdh+6GVE2zKf799Ui/PKi9WxZSKaY5Jb3cHm67EZeUey8wd50YUcJt21ez1Iw4MOFcCY+Ns2U/kgWZiLLPjng3rxpgnxYGyRcE1f9bwAA35sHAfJSi7xS/ksdRbh920zqzAK0Wky+2V+gnm0nTPUuQB7nt2hgDQ5U34Dv8oSHXNr9o15ZJ68/0/Amwy46C5ugyoqookxI4/Oh+Iu+tjT0VtP2sZiwVxUAv7obXiKVogt7ugTkLt5OqekHEiLcX1af6/IDc181zVa0/May99Rl/qRI",
+    "protectGroup": {},
+    "rezlchangeDual": false,
+    "ryncc": "UAy+aQO9xvcHCMm6MibGMhjfusZqQ9RCJdIzB1Dt6jaP6Hu6DZhssQd7KVV/hYuKDSAnb1aZgp+L6mkzDM/zSVg39U6QtTUODW9BHdToKlOUqHulujlwq5ipbmX9oRx5/lQx3myLJk+GHBscB/Hw/znLt/UKEBHd831nWGQnjWnhhPPHSKphmFlO4n+/JoTVOvuuS9zw6PUv7Dn6vBt3tW5FLIoEw6z/sCt5oGdLLfKmqza0gERQOzjpX2hL/pFY15ZJ68/0/Amwy46C5ugyoqookxI4/Oh+Iu+tjT0VtP3en35GkxfjCmMJARJMvVFMVOGRhQHThHnl11O0iVURUQM+vpepJDS4XWltIoUOMzk",
+    "rynchangeDual": false,
+    "setKey": false,
+    "simiSimi": [],
+    "sniff": [
+        "u3fc0ddc641712de85a6c1a67ea0d6b8f"
+    ],
+    "sticker": [
+        "ue4ac3d2ca1b869b675a3cf4bbff385a0"
+    ],
+    "tatan": "pepeeeeeqqqqeuy",
+    "token": {
+        "apptype": "IOSIPAD",
+        "status": false,
+        "to": "c23c4548d5627cb7b09ef3889f216b014",
+        "token": "EyOSiEZdIlSmLZVwG0Y0.cifh9d5gYsmGXr9jbj0JOa.Gnw3Fe9d2h8FZclJXTZow1l2M5oge36U0nALn4ovbPw="
+    },
+    "unbanContact": false,
+    "watercolor": [],
+    "welcomee": {}
+}
